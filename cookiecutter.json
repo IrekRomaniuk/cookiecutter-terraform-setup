@@ -1,6 +1,7 @@
 {
   "full_name": "Irek Romaniuk",
   "short_description": "description goes here",
+  "terraform_name: "",
   "release_date": "",
   "terraform_version": "0.12.3",
   "var_file": "prod"
